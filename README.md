@@ -2,7 +2,9 @@
 
 I'm a **marketer**, not a software developer. One would never typically describe my body of work technical in nature, but I've had countless situations where if I didn't do something "technical" myself, it would never get done.
 
-I'm driven by knowledge, learning, and solving problems. Currently, I'm using AI to design and build practical tools, automate workflows, extend my finite time and efficiency limitations, and explore new ways of solving real business problems. That's how I ended up with a profile here, because I really wanted to know how I could embed my marketing strategy foundationally within an entire company's way of working with AI (and developers are a big portion of my audience!). Also, I want to save myself the effort of repeating myself thousands of times over and chasing problems instead of sparking inspiration. :thinking:
+I'm driven by knowledge, learning, and solving problems. Currently, I'm using AI to design and build practical tools, automate workflows, extend my finite time and efficiency limitations, and explore new ways of solving real business problems. 
+
+That's how I ended up with a profile here, because I really wanted to know how I could embed my marketing strategy foundationally within an entire company's way of working with AI (and developers are a big portion of my audience!). Also, I want to save myself the effort of repeating myself thousands of times over and chasing problems instead of sparking inspiration. :thinking:
 
 And so I'm doing a bunch of stuff that is definitely not rocket science :rocket:, but it's new to me! 
 
