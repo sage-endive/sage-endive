@@ -6,7 +6,7 @@ I'm driven by knowledge, learning, and solving problems. Currently, I'm using AI
 
 That's how I ended up with a profile here, because I really wanted to know how I could embed my marketing strategy foundationally within an entire company's way of working with AI (and developers are a big portion of my audience!). Also, I want to save myself the effort of repeating myself thousands of times over and chasing problems instead of sparking inspiration. :thinking:
 
-And so I'm doing a bunch of stuff that is definitely not rocket science :rocket:, but it's new to me! 
+Chasing some crazy ideas and pressure testing ideas from the industry, I'm  not rocket science :rocket:, but it's new to me! 
 
 🔭 I’m currently working on:
 - spinning up a private LLM server
@@ -14,7 +14,8 @@ And so I'm doing a bunch of stuff that is definitely not rocket science :rocket:
 🌱 I’m currently learning how to:
 - work in a Linux environment
 - work in CLIs
-- translate innate marketing knowledge into effective prompts
+- translate my innate marketing expertise into effective prompts
+- automate workflows that were previously out of reach
 
 :muscle: I'm practicing how to:
 - design AI skills
