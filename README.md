@@ -1,4 +1,4 @@
-:wave:
+# :wave:
 
 I'm a **marketer**, not a software developer. One would never typically describe my body of work technical in nature, but I've had countless situations where if I didn't do something "technical" myself, it would never get done.
 
@@ -22,6 +22,10 @@ Chasing some crazy ideas and pressure testing ideas from others in the industry,
 - use GitHub like a boss (yup, fix my mistakes :no_mouth:)
 - read and write in JSON
 - share some ideas and works in progress without shame :anguished: 
+
+
+## Projects
+
 
 <!--
 **sage-endive/sage-endive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
