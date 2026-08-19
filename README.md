@@ -25,7 +25,7 @@ Chasing some crazy ideas and pressure testing ideas from others in the industry,
 
 
 ## Projects
-[First Marketer OS](https://github.com/sage-endive/first-marketer-os) - description
+[First Marketer OS](https://github.com/sage-endive/first-marketer-os)
 
 <!--
 **sage-endive/sage-endive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
