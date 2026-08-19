@@ -19,7 +19,7 @@ Chasing some crazy ideas and pressure testing ideas from others in the industry,
 
 :muscle: I'm practicing how to:
 - design AI skills
-- use GitHub like a boss (yeah, fix my mistakes)
+- use GitHub like a boss (yup, fix my mistakes :no_mouth:)
 - read and write in JSON
 - share some ideas and works in progress without shame :anguished: 
 
