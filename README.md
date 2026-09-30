@@ -10,12 +10,14 @@ Chasing some crazy ideas and pressure testing ideas from others in the industry,
 
 🔭 I’m currently working on:
 - spinning up a private LLM server
+- new website build with Astro
   
 🌱 I’m currently learning how to:
 - work in a Linux environment
 - work in CLIs
 - translate my innate marketing expertise into effective prompts
 - automate workflows that were previously out of reach
+- better understand software development practices, tooling, and languages
 
 :muscle: I'm practicing how to:
 - design AI skills
